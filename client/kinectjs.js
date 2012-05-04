@@ -825,7 +825,7 @@
 						tmp = 16;
 					break;
 					case ( "KNEE_LEFT" ) :
-						tmp = 6;
+						tmp = 13;
 					break;
 					case ( "KNEE_RIGHT" ) :
 						tmp = 17;
